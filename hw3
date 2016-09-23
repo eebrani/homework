@@ -1,0 +1,19 @@
+Eliyahu Ebrani 
+Data Structures Homework #3
+For the regional database I would use a list. This database is primarily concerned with adding new data, and adding data to a list is faster than in an array. Lists also have unlimited size, making them easier to work with than arrays when it comes to adding an indefinite amount of data in the future. 
+<b>
+List -Add O(1)
+List- Alter O(n) 
+List- Retrieve O(n)
+List- Copy O(1)
+List- Retrieve O(1)
+List-Reinsert O(1) </b>
+  
+For the corporate database I would use a list rather than an array because deleting and aggregating data is easier with a list rather than an array. 
+<b>
+List-Review O(n)
+List- Combine O(n)
+List- Delete O(1)
+List-Retrieve O(1)
+List- Aggregate O(n) </b>
+
